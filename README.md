@@ -1,2 +1,3 @@
-# Week2_Assignments.
-Data_Science_Week 2
+@Atharva Kadam
+Tarun Vishwakarma
+Here is my week 2 Assignment Link
